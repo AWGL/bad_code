@@ -1,9 +1,10 @@
+from pysam import VariantFile
+
 """
 Parse a BED file and generate some statistics
 """
 # This is the change I have done to prove I can commit a change.
-from pysam import VariantFile
-
+# This is another change - Ant W
 
 vcf = "NA12878.trio.sorted.snps.vcf.gz"
 
