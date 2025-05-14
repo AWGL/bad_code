@@ -12,6 +12,7 @@ Variantfile = VariantFile(vcf)
 
 out = 'out.stats'
 
+# This is a lovely way to list all the counts.
 
 # chromsomes
 count1 = 0
